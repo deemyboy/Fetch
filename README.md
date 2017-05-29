@@ -27,7 +27,7 @@ backwards compatible.
 
 ```
 "require": {
-   "Nadeem Sarwar/fetch": "1.0.*",
+   "deemyboy/fetch": "1.0.*",
 }
 
 add this the repo reference to the repositories
@@ -39,7 +39,7 @@ add this the repo reference to the repositories
         },
         {
             "type": "git",
-            "url": "https://git.computerassistance.co.uk/Nadeem/Fetch.git"
+            "url": "https://git.computerassistance.co.uk/deemyboy/Fetch.git"
         }
     ]
  
