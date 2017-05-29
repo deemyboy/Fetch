@@ -8,8 +8,6 @@
 Fetch is a library for reading email and attachments, primarily using the POP 
 and IMAP protocols.
 
-# Moved from my personal repo to computerassistance gitlab - Nadeem
-
 ## Installing
  > N.b. A note on Ubuntu 14.04 (probably other Debian-based / Apt managed systems), the install of php5-imap does not enable the extension for CLI (possibly others as well), which can cause composer to report fetch requires ext-imap
  ```
