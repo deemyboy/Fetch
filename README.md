@@ -37,7 +37,7 @@ add this the repo reference to the repositories
         },
         {
             "type": "git",
-            "url": "https://git.computerassistance.co.uk/deemyboy/Fetch.git"
+            "url": "https://github.com/deemyboy/Fetch.git"
         }
     ]
  
